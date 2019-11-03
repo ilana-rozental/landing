@@ -1,0 +1,18 @@
+.btn-blue{
+	background-color: #ffaa02;
+	padding: 15px 20px; 
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'McLaren', cursive;
+}
+
+.btn-blue:hover{
+	background-color: white;
+	padding: 15px 20px; 
+	border-radius: 4px;
+	color: #ffaa02;
+	font-weight: bold;
+	font-family: 'McLaren', cursive;
+	border: solid #ffaa02 ;
+}
